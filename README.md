@@ -1,2 +1,2 @@
-# ai-tax-fairness
-Fairness-aware AI framework for tax compliance. Evaluates and mitigates algorithmic bias in audit risk scoring using synthetic taxpayer data, Fairlearn metrics, and explainable ML.
+# Algorithmic Fairness in AI-Based Tax Systems: Balancing Efficiency with Equity
+This repo demonstrates fairness-aware ML for tax compliance.
